@@ -1,0 +1,5 @@
+/home/empr3ss/Desktop/Study/twims/kg/lab2/build/Qt_6_9_1_PATH-Debug/CMakeFiles/BezierCurve3D.dir
+/home/empr3ss/Desktop/Study/twims/kg/lab2/build/Qt_6_9_1_PATH-Debug/CMakeFiles/edit_cache.dir
+/home/empr3ss/Desktop/Study/twims/kg/lab2/build/Qt_6_9_1_PATH-Debug/CMakeFiles/rebuild_cache.dir
+/home/empr3ss/Desktop/Study/twims/kg/lab2/build/Qt_6_9_1_PATH-Debug/CMakeFiles/BezierCurve3D_autogen_timestamp_deps.dir
+/home/empr3ss/Desktop/Study/twims/kg/lab2/build/Qt_6_9_1_PATH-Debug/CMakeFiles/BezierCurve3D_autogen.dir

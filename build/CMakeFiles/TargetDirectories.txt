@@ -1,0 +1,5 @@
+/home/empr3ss/Desktop/Study/twims/kg/lab2/build/CMakeFiles/BezierCurve3D.dir
+/home/empr3ss/Desktop/Study/twims/kg/lab2/build/CMakeFiles/edit_cache.dir
+/home/empr3ss/Desktop/Study/twims/kg/lab2/build/CMakeFiles/rebuild_cache.dir
+/home/empr3ss/Desktop/Study/twims/kg/lab2/build/CMakeFiles/BezierCurve3D_autogen_timestamp_deps.dir
+/home/empr3ss/Desktop/Study/twims/kg/lab2/build/CMakeFiles/BezierCurve3D_autogen.dir

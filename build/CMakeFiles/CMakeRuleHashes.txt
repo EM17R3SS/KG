@@ -1,0 +1,3 @@
+# Hashes of file build rules.
+512dc3107de8c35652339cf8a566c64d BezierCurve3D_autogen/timestamp
+15d3c3ad21944acd35f694ce3d5905ad CMakeFiles/BezierCurve3D_autogen
